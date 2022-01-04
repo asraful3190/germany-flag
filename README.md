@@ -1,4 +1,5 @@
 # germany_flag
+![Screenshot](https://user-images.githubusercontent.com/86846327/148074650-9c8ca4a5-c9f0-4fce-b4e7-a2ae203ce7c6.png)
 
 A new Flutter project.
 
